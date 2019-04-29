@@ -1,0 +1,71 @@
+!! Numix_Minimal by Johannes Roith
+!! Minimal by Philip Andersen (renegadevi@codeofmagi.net) angepasst mit Numix Farben
+
+
+!!
+!! Geometry
+!!
+menu.separator.padding.height: 			10
+window.client.padding.width: 			0
+window.handle.width: 				0
+padding.width: 					5
+
+
+!!
+!! Border colors
+!!
+window.active.border.color: 			#444444
+window.active.title.separator.color: 	#444444
+window.inactive.border.color: 			#444444
+window.active.client.color: 			#444444
+window.inactive.client.color: 			#444444
+
+!!
+!! Titlebar colors
+!!
+window.active.label.text.color:			#ffffff
+window.inactive.label.text.color:		#bbbbbb
+window.active.button.unpressed.image.color:	#ffffff
+
+!!
+!! Active Windows
+!!
+window.active.title.bg: Gradient Horizontal Flat
+window.active.title.bg.color            #f06860
+window.active.title.bg.colorTo: 		#f06860
+window.active.*.bg.border.color: 		#444444
+window.active.label.bg: 			parentrelative
+window.active.button.*.bg: 			parentrelative
+
+!!
+!! Inactive Windows
+!!
+window.inactive.title.bg: 			flat solid
+window.inactive.title.bg.color: 		#444444
+window.inactive.*.border.color: 		#444444
+window.inactive.label.bg: 			parentrelative
+window.inactive.button.*.bg: 			parentrelative
+
+!!
+!! Menu
+!!
+menu.border.color: #444444
+
+menu.title.bg: flat solid
+menu.title.bg.color: #444444
+menu.title.text.color: #eeeeee
+menu.title.text.justify: center
+
+menu.items.bg: flat solid
+menu.items.bg.color: #444444
+menu.items.text.color: #eeeeee
+menu.items.disabled.text.color: #888888
+
+menu.items.active.bg: flat solid
+menu.items.active.bg.color: #f06860
+menu.items.active.text.color: #ffffff
+
+menu.separator.color: #262626
+menu.separator.width: 1
+menu.separator.padding.width: 2
+menu.separator.padding.height: 4
